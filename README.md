@@ -1,3 +1,6 @@
+
+![LOGO](https://github.com/user-attachments/assets/98c59fba-27aa-4608-b20c-fa48267a6f69)
+
 GenIArte: Repositorios en abierto para la docencia activa
 
 Cómo utilizar este repositorio incrustando el contenido:
