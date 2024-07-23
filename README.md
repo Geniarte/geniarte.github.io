@@ -8,7 +8,7 @@ Cómo utilizar este repositorio incrustando el contenido:
 
 -
 -
--
+-<p>Inteligencia artificial y creación artística <a href="https://geniarte.github.io/ia/" target="_blank" rel="noopener noreferrer">IA</a>.</p>
 -
 - https://geniarte.github.io/ia/
 -
