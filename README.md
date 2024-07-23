@@ -1,7 +1,8 @@
 
-![LOGO](https://github.com/user-attachments/assets/98c59fba-27aa-4608-b20c-fa48267a6f69)
+![LOGO_White](https://github.com/user-attachments/assets/71c93486-2c54-4eb6-b0b2-d1fe763e4a02)
 
-GenIArte: Repositorios en abierto para la docencia activa
+
+Repositorios en abierto para la docencia activa
 
 Cómo utilizar este repositorio incrustando el contenido:
 
