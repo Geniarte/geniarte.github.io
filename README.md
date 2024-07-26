@@ -4,13 +4,14 @@
 
 Repositorios en abierto para la docencia activa
 
-Cómo utilizar este repositorio incrustando el contenido:
 
 
 <p>Inteligencia artificial y creación artística <a href="https://geniarte.github.io/ia/" target="_blank" rel="noopener noreferrer">IA</a>.</p>
 
 - https://geniarte.github.io/ia/
 -
+
+Cómo utilizar este repositorio incrustando el contenido:
 -
 Modelo de la página del repositorio
 https://geniarte.github.io/NOMBRE_DE_LA_SUBCARPETA_EN_EL_REPOSITORIO/
