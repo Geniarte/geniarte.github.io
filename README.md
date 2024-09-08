@@ -2,7 +2,7 @@
 ![LOGO_White](https://github.com/user-attachments/assets/71c93486-2c54-4eb6-b0b2-d1fe763e4a02)
 
 
-Repositorios en abierto para la docencia activa
+Repositorios en abierto para la docencia activa:
 
 
 
